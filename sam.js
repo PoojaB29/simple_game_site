@@ -1,7 +1,7 @@
 //challange1
 function ageInDays(){
     var birthYear=prompt("What year were you born ......My friend?");
-    var ageInDayss=(2020 - birthYear) * 365;
+    var ageInDayss=(2021 - birthYear) * 365;
     // console.log(ageInDayss);
     var h1=document.createElement('h1');
     var textAnswer=document.createTextNode('You are'+ageInDayss+'days old.');
